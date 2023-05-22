@@ -1,6 +1,6 @@
-# Frontend Mentor - Fylo landing page with two column layout
+# Frontend Mentor - Huddle landing page with curved sections
 
-This is a solution to the [Fylo landing page with two column layoutFylo landing page with two column layout challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Huddle landing page with curved sections challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ### Preview
 
@@ -19,8 +19,8 @@ Your users should be able to:
 
 ### Links
 
-[Fylo landing page with two column layout Live URL ](https://miguelaeb.github.io/huddle-landing-page-with-curved-sections/) <br>
-[Fylo landing page with two column layout Solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-57pVRGjsqR) 
+[Huddle landing page with curved sections Live URL ](https://miguelaeb.github.io/huddle-landing-page-with-curved-sections/) <br>
+[Huddle landing page with curved sections Solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-57pVRGjsqR) 
 
 ### Built with
 
